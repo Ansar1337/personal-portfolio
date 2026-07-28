@@ -1,4 +1,4 @@
-# Responsive Personal Portfolio Website
+# My Portfolio
 A responsive, multi-device and cross-browser compatible personal portfolio website with UI/UX elements.
 
 Responsive Portfolio Website designed in Html, Css and JavaScript, with a beautiful user interface. It contains a Header, Home, About, Skills, Qualification, Services, Portfolio, Project in mind, Testimonial, Contact and Footer sections.
